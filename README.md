@@ -9,10 +9,10 @@ This project aims to predict the 10-year risk of coronary heart disease (CHD) us
 
 To build a machine learning model that predicts whether a person is likely to develop heart disease within the next 10 years based on medical and behavioral features.
 
-🧾 Dataset Description
+🧾 Dataset Description:
 The dataset consists of medical, lifestyle, and demographic attributes.
 
-🔹 Features Used
+🔹 Features Used:
 male
 age
 education
@@ -29,16 +29,15 @@ BMI
 heartRate	
 glucose	
 
-🎯 Target Variable
+🎯 Target Variable:
 TenYearCHD
 
 📁 Project Files
-File	Description
+File	Description:
 Heart_Disease_Prediction.ipynb:	Complete EDA, preprocessing, model building & evaluation
 project-data.csv	Dataset used for the classification model
 
 🛠️ Technologies Used
-
 Programming Language: Python
 Libraries:
 NumPy
@@ -57,20 +56,20 @@ Model Building
 Model Evaluation
 Prediction
 
-🤖 Machine Learning Models
+🤖 Machine Learning Models:
 Logistic Regression
 Support Vector Machine
 Decision Tree
 Random Forest
 
-📊 Model Evaluation Metrics
+📊 Model Evaluation Metrics:
 Accuracy
 Precision
 Recall
 F1-Score
 ROC-AUC Score
 
-🚀 Results
+🚀 Results:
 The model successfully predicts the 10-year risk of heart disease with good accuracy and balanced performance across evaluation metrics.
 
 🧠 Conclusion
