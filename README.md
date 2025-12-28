@@ -35,7 +35,7 @@ TenYearCHD
 📁 Project Files
 File	Description:
 Heart_Disease_Prediction.ipynb:	Complete EDA, preprocessing, model building & evaluation
-project-data.csv	Dataset used for the classification model
+framingham.csv	Dataset used for the classification model
 
 🛠️ Technologies Used
 
@@ -57,14 +57,14 @@ Model Building
 Model Evaluation
 Prediction
 
-🤖 Machine Learning Models:
+🤖 Machine Learning Models
 
 Logistic Regression
 Support Vector Machine
 Decision Tree
 Random Forest
 
-📊 Model Evaluation Metrics:
+📊 Model Evaluation Metrics
 
 Accuracy
 Precision
