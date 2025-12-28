@@ -38,6 +38,7 @@ Heart_Disease_Prediction.ipynb:	Complete EDA, preprocessing, model building & ev
 project-data.csv	Dataset used for the classification model
 
 🛠️ Technologies Used
+
 Programming Language: Python
 Libraries:
 NumPy
@@ -57,19 +58,22 @@ Model Evaluation
 Prediction
 
 🤖 Machine Learning Models:
+
 Logistic Regression
 Support Vector Machine
 Decision Tree
 Random Forest
 
 📊 Model Evaluation Metrics:
+
 Accuracy
 Precision
 Recall
 F1-Score
 ROC-AUC Score
 
-🚀 Results:
+🚀 Result
+
 The model successfully predicts the 10-year risk of heart disease with good accuracy and balanced performance across evaluation metrics.
 
 🧠 Conclusion
