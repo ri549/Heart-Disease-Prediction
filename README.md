@@ -32,8 +32,7 @@ glucose
 🎯 Target Variable:
 TenYearCHD
 
-📁 Project Files
-File	Description:
+📁 File Description:
 Heart_Disease_Prediction.ipynb:	Complete EDA, preprocessing, model building & evaluation
 framingham.csv	Dataset used for the classification model
 
